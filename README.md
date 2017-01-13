@@ -8,5 +8,5 @@ This console program determines how many pizzas should be ordered for an event.
     * ensure latest Xcode and Xcode Command Line Tools are installed
     * open Terminal
     * navigate to directory with main.cpp
-    * run: g++ main.cpp -o pizza-ordering-helper
-    * run: ./pizza-ordering-helper
+    * run: g++ main.cpp -o pizza
+    * run: ./pizza
